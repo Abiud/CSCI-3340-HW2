@@ -51,7 +51,7 @@
     <section class="head-sec" id="head">
 		<div class="container">
 			<div class="row">
-			    <div id="content">
+			    <div id="content" class="col col-lg-12">
 				    <div class="col col-lg-12">
 				    	<h1>ChurchManager</h1>
 				    	<h3>Organization like never before!</h3>
